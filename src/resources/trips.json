@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1",
+      "name": "Cannon Beach Chillout",
+      "status": "COMPLETED",
+      "destination": "Cannon Beach, OR, USA",
+      "startDate": "05/24/2020"
+    },
+    {
+      "id": "2",
+      "name": "Mount Hood Snow Fun",
+      "status": "COMPLETED",
+      "destination": "Mount Hood, OR, USA",
+      "startDate": "09/05/2020"
+    },
+    {
+      "id": "3",
+      "name": "Beach Bar Be Queue",
+      "status": "CANCELLED",
+      "destination": "Seaside, OR, USA",
+      "startDate": "07/04/2020"
+    },
+    {
+      "id": "4",
+      "name": "Hawaii Trip",
+      "status": "PLANNED",
+      "destination": "Honolulu, HI, USA",
+      "startDate": "05/29/2021"
+    }
+  ]
